@@ -6,4 +6,4 @@ Github finder webiste made with React JS deployed using Netlify.
 
 ## Sample Image
 
-![](https://i.imgur.com/ejujgxn.png)
+![](https://i.imgur.com/jk8llXn.png)
